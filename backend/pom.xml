@@ -14,9 +14,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmovie</name>
 	<description>Backend project for Semana Spring React </description>
-<!-- 	<properties> -->
-<!-- 		<java.version>17</java.version> -->
-<!-- 	</properties> -->
+	<properties>
+		<java.version>17</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
