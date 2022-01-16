@@ -15,7 +15,7 @@
 	<name>dsmovie</name>
 	<description>Backend project for Semana Spring React </description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
